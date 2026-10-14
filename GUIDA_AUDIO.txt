@@ -1,0 +1,7 @@
+AGGIORNAMENTO VOCE FEMMINILE — GIOCO ORIGINALE A 5 SEZIONI
+
+È stata modificata la selezione delle voci italiane, preferendo quelle con denominazioni Natural/Neural/Premium e nomi femminili. La scelta dipende dalle voci installate.
+
+Per sostituire davvero la sintesi meccanica con una voce neurale, inserire in audio/ quattro MP3 femminili chiamati episodio-1.mp3, episodio-2.mp3, episodio-3.mp3, episodio-4.mp3. Il codice tenta prima i file MP3, poi passa alla sintesi vocale del dispositivo se non disponibili.
+
+Le registrazioni MP3 neurali non sono state generate: non sarebbe corretto affermare il contrario. Le altre sezioni usano ancora la voce sintetica di riserva per contenuti dinamici.
